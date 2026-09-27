@@ -11,11 +11,11 @@ I am learning AI Engineering from first principles using the "AI Engineering fro
 
 ## Progress
 
-- [x] Phase 0 — Setup and Tooling
+- [ ] Phase 0 — Setup and Tooling (Lesson 01 in progress)
 - [ ] Phase 1 — Math Foundations
 - [ ] Phase 2 — Machine Learning
 - [ ] Phase 3 — Deep Learning
 
 ## Current Lesson
 
-Phase 1 — Linear Algebra Intuition
+Phase 0 — Dev Environment (Lesson 01)
