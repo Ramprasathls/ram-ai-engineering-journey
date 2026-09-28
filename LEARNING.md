@@ -40,5 +40,9 @@ Transitioning into AI Engineering. Acquiring knowledge and skills to solve probl
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
 | 2026-09-26 | Phase 0 / 01 Dev Environment | 3/3 | Git, Python+uv, Node.js, .venv created. NumPy/Matplotlib/Jupyter + PyTorch installed. Hello world in Python + TypeScript. Rust/Julia deferred. |
+| 2026-09-27 | Phase 0 / 02 Git & Collaboration | 3/4 | Branching and daily workflow solid. Missed .gitignore rationale — model checkpoints are too large for git, not a binary-file limitation. |
+| 2026-09-27 | Phase 0 / 03 GPU Setup & Cloud | 4/4 | No local GPU (CUDA available: False). Understood Colab fallback, async benchmarking with synchronize(), and fp16 VRAM rule (2 bytes/param). GTX 1650 4GB GPU noted; deferring CUDA reinstall until Phase 4. |
+| 2026-09-27 | Phase 0 / 04 APIs & Keys | 4/4 | Env vars + .gitignore for keys. SDK vs raw HTTP clear. 401/429/500 error patterns understood. |
+| 2026-09-27 | Phase 0 / 05 Jupyter Notebooks | 4/4 | Kernel/cells/magic commands clear. Hidden state trap understood. Explore in notebooks, ship in scripts. |
 
 ## Review queue
