@@ -44,5 +44,7 @@ Transitioning into AI Engineering. Acquiring knowledge and skills to solve probl
 | 2026-09-27 | Phase 0 / 03 GPU Setup & Cloud | 4/4 | No local GPU (CUDA available: False). Understood Colab fallback, async benchmarking with synchronize(), and fp16 VRAM rule (2 bytes/param). GTX 1650 4GB GPU noted; deferring CUDA reinstall until Phase 4. |
 | 2026-09-27 | Phase 0 / 04 APIs & Keys | 4/4 | Env vars + .gitignore for keys. SDK vs raw HTTP clear. 401/429/500 error patterns understood. |
 | 2026-09-27 | Phase 0 / 05 Jupyter Notebooks | 4/4 | Kernel/cells/magic commands clear. Hidden state trap understood. Explore in notebooks, ship in scripts. |
+| 2026-09-30 | Phase 0 / 06 Python Environments | 3/3 | uv/venv/conda isolation clear. pyproject.toml + lockfile relationship solid. Per-phase env strategy understood. Using course folder .venv (CPU torch). |
+| 2026-09-30 | Phase 0 / 07 Docker for AI | 3/3 | Image vs container, volumes, NVIDIA Container Toolkit, Docker Compose service discovery all clear. Built ai-dev image (9 GB, runtime base, PyTorch 2.6.0+cu124). CUDA: False on Windows (expected). |
 
 ## Review queue
