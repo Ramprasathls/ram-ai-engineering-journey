@@ -46,5 +46,7 @@ Transitioning into AI Engineering. Acquiring knowledge and skills to solve probl
 | 2026-09-27 | Phase 0 / 05 Jupyter Notebooks | 4/4 | Kernel/cells/magic commands clear. Hidden state trap understood. Explore in notebooks, ship in scripts. |
 | 2026-09-30 | Phase 0 / 06 Python Environments | 3/3 | uv/venv/conda isolation clear. pyproject.toml + lockfile relationship solid. Per-phase env strategy understood. Using course folder .venv (CPU torch). |
 | 2026-09-30 | Phase 0 / 07 Docker for AI | 3/3 | Image vs container, volumes, NVIDIA Container Toolkit, Docker Compose service discovery all clear. Built ai-dev image (9 GB, runtime base, PyTorch 2.6.0+cu124). CUDA: False on Windows (expected). |
+| 2026-10-03 | Phase 0 / 08 Editor Setup | 3/3 | Installed Remote SSH, Black, Ruff; configured User Settings; verified format-on-save, unused-import diagnostics, type checking, terminal execution, and remote-vs-local workflow. |
+| 2026-10-03 | Phase 0 / 09 Data Management | 3/3 | Loaded/cached IMDB and model config, streamed Wikipedia (updated stale config to 20231101.en), compared CSV/Parquet, made seeded splits, and added large-artifact .gitignore rules. |
 
 ## Review queue
